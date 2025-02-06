@@ -45,5 +45,16 @@ img:hover{
     .choices{
         gap: 2rem;
     }
+    img{
+        height: 75px;
+    }
+    #heading{
+        font-size: 1rem;
+        height: 25px;
+    }
+    #msg{
+        font-size: 1rem;
+        height: 25px;
+    }
     
 }
